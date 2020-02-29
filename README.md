@@ -1,4 +1,4 @@
-# Stepik---Selenium
+# Stepik_Selenium
 
 Это репозиория для хранения примеров курса Автоматизация тестирования с помощью Selenium и Python
 Адрес кусра: https://stepik.org/course/575/syllabus
